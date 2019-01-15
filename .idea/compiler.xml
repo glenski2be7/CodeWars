@@ -9,5 +9,9 @@
         <module name="Maven-codewars" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jjdzl1-css" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
