@@ -4,16 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Codewars</groupId>
-    <artifactId>Maven-codewars</artifactId>
+    <groupId>pl.infoshare.lukasz</groupId> <!--cos jak organizacja domena panstwa.producent.firma. moze byc oddzial-->
+    <artifactId>codewars-exercises</artifactId> <!--nazwa odnoszaca sie do aktualnie wykonywanego zadania-->
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
+            <version>4.13-beta-1</version>
+            <scope>test</scope> <!--gdzie bilioteka będzie uzywana.-->
         </dependency>
     </dependencies>
 
