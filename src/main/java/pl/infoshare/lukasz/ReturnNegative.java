@@ -1,5 +1,4 @@
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+package pl.infoshare.lukasz;
 
 public class ReturnNegative {
 
