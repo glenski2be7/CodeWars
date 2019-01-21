@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println(ReturnNegative.makeNegative(-8));
+        System.out.println(FindTheSmallestIntegerInTheArray.findSmallestInt(new int[]{3, 5, 1}));
+        System.out.println(BasicVariableAssignment.name);
     }
 }
