@@ -1,4 +1,4 @@
-package java.pl.infoshare.lukasz;
+package pl.infoshare.lukasz;
 
 import org.junit.Test;
 import pl.infoshare.lukasz.CountOfPositivesSumOfNegatives;
@@ -6,14 +6,8 @@ import pl.infoshare.lukasz.ReturnNegative;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
-import static pl.infoshare.lukasz.CountOfPositivesSumOfNegatives.countPositivesSumNegatives;
 
-public class KataTests {
-
-    @Test
-    public void test1() {
-        assertEquals(-42, ReturnNegative.makeNegative(42));
-    }
+public class CountOfPositivesSumOfNegativesTest {
 
     @Test
     public void countPositivesSumNegatives_BasicTest() {
