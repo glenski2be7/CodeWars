@@ -1,0 +1,38 @@
+package pl.infoshare.lukasz;
+
+public class PangramChecker {
+    public boolean check(String sentence) {
+        boolean[] mark = new boolean[26];
+
+        // For indexing in mark[]
+        int index = 0;
+
+        // Traverse all characters
+        for (int i = 0; i < sentence.length(); i++) {
+            // If uppercase character, subtract 'A'
+            // to find index.
+            if ('A' <= sentence.charAt(i) &&
+                    sentence.charAt(i) <= 'Z')
+
+                index = sentence.charAt(i) - 'A';
+
+                // If lowercase character, subtract 'a'
+                // to find index.
+            else if ('a' <= sentence.charAt(i) &&
+                    sentence.charAt(i) <= 'z')
+
+                index = sentence.charAt(i) - 'a';
+
+            // Mark current character
+            mark[index] = true;
+        }
+
+        // Return false if any character is unmarked
+        for (int i = 0; i <= 25; i++)
+            if (mark[i] == false)
+                return (false);
+
+        // If all characters were present
+        return (true);
+    }
+}
