@@ -23,6 +23,6 @@
 hs_err_pid*
 
 #IntelliJ
-.idea/workspace.xml
+.idea/**
 target
 *.iml
