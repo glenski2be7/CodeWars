@@ -1,7 +1,6 @@
 package pl.infoshare.lukasz;
 
 import org.junit.Test;
-import pl.infoshare.lukasz.sql.CalculateAverafgeFromArray;
 
 import static org.junit.Assert.assertEquals;
 

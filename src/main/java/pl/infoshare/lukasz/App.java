@@ -1,7 +1,5 @@
 package pl.infoshare.lukasz;
 
-import pl.infoshare.lukasz.sql.CalculateAverafgeFromArray;
-
 /**
  * Hello world!
  */

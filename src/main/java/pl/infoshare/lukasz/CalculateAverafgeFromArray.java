@@ -1,4 +1,4 @@
-package pl.infoshare.lukasz.sql;
+package pl.infoshare.lukasz;
 
 public class CalculateAverafgeFromArray {
     public static double find_average(int[] array) {

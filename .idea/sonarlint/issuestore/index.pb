@@ -34,3 +34,17 @@ i
 9src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java,7\3\7336290caedaa89a5925dde7359173b2deaba0ee
 i
 9src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java,3\5\357c9565a01caf8565a0ed5cf9488677d94007ce
+e
+5src/main/java/pl/infoshare/lukasz/PangramChecker.java,b\a\ba58e29522d05e8fe26557721267b1765dec0b4f
+j
+:src/main/java/pl/infoshare/lukasz/JennysSecretMessage.java,1\a\1a71559007caed58ff764086ab3b3a17386b2e3e
+n
+>src/test/java/pl/infoshare/lukasz/JennysSecretMessageTest.java,c\9\c9d805c6ccda6359ece6cbb91bee047e08903082
+p
+@src/test/java/pl/infoshare/lukasz/GetTheMiddleCharacterTest.java,e\8\e8a9a6c282a1afea5cf06ea83efc245ef9724b16
+l
+<src/main/java/pl/infoshare/lukasz/GetTheMiddleCharacter.java,7\1\712f6cfdac049961868bae87f5242ef8be6c1e62
+e
+5src/main/java/pl/infoshare/lukasz/IsThisTriangle.java,6\a\6ac886791b79b11ad2f813183eb066dfd55c31c0
+i
+9src/test/java/pl/infoshare/lukasz/IsThisTriangleTest.java,2\9\2998b25f5889f5151d1a4e62e2ae33514b4d7f42
