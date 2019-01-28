@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea098ada-6b56-4713-bbbf-7ec9676d4e05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/ThisIsAProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5732e955b6b14d8badbc34e63282754cacc07c82" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5732e955b6b14d8badbc34e63282754cacc07c82" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84d09554c291dde9a2d7f493de97bc0818992598" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84d09554c291dde9a2d7f493de97bc0818992598" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1139fc3c61a9f39b1ecc7e40f78c31acfd56143" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1139fc3c61a9f39b1ecc7e40f78c31acfd56143" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c820ddd14520cc993fe7b625804e015eccaeba" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c820ddd14520cc993fe7b625804e015eccaeba" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,28 +20,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/ThisIsAProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="400">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1271">
+              <caret line="460" column="10" selection-start-line="460" selection-start-column="10" selection-end-line="460" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ReturnNegativeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
+            <state relative-caret-position="80">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -42,82 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/CalculateAverafgeFromArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/JennysSecretMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/JennysSecretMessageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-CountingAndGrouping.sql">
-=======
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleGROUPBY">
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/Best-SellingBooks">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -135,19 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ReturnNegativeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/SmallestIntegerFinder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/BasicVariableAssignment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleJOIN.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-CountingAndGrouping.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/CalculateAverafgeFromArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/CalculateAverafgeFromArrayTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-=======
         <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleGROUPBY" />
         <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/Best-SellingBooks" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -156,7 +105,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
       </list>
     </option>
   </component>
@@ -178,7 +126,7 @@
     <option name="height" value="701" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -186,68 +134,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-<<<<<<< HEAD
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-=======
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -257,18 +206,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548420681222" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-=======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548189636219" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jjdzl1-materialy-jse/pom.xml" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PangramCheckerTest">
+  <component name="RunManager" selected="JUnit.ThisIsAProblemTest.testNameMeOne">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.App" />
       <module name="codewars" />
@@ -327,8 +267,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThisIsAProblemTest.testNameMeOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.infoshare.lukasz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.infoshare.lukasz" />
+      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.ThisIsAProblemTest" />
+      <option name="METHOD_NAME" value="testNameMeOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThisIsAProblemTest.testNameMeOne" />
         <item itemvalue="JUnit.PangramCheckerTest" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.JennysSecretMessageTest.Test" />
@@ -349,73 +306,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-<<<<<<< HEAD
-    <history-entry file="CountOfPositivesSumOfNegativesTest - 2019.01.25 at 12h 46m 44s.xml">
-      <configuration name="CountOfPositivesSumOfNegativesTest" configurationId="JUnit" />
-=======
     <history-entry file="JennysSecretMessageTest_Test - 2019.01.22 at 21h 06m 03s.xml">
       <configuration name="JennysSecretMessageTest.Test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="JennysSecretMessageTest_Test - 2019.01.22 at 21h 06m 55s.xml">
       <configuration name="JennysSecretMessageTest.Test" configurationId="JUnit" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
     </history-entry>
     <history-entry file="PangramCheckerTest - 2019.01.22 at 21h 33m 07s.xml">
       <configuration name="PangramCheckerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculateAverafgeFromArrayTest_(1) - 2019.01.25 at 13h 06m 38s.xml">
-      <configuration name="CalculateAverafgeFromArrayTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculateAverafgeFromArrayTest_(1) - 2019.01.25 at 13h 07m 08s.xml">
-      <configuration name="CalculateAverafgeFromArrayTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculateAverafgeFromArrayTest_testSomething - 2019.01.25 at 13h 07m 41s.xml">
-      <configuration name="CalculateAverafgeFromArrayTest.testSomething" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculateAverafgeFromArrayTest_testSomething - 2019.01.25 at 13h 08m 11s.xml">
-      <configuration name="CalculateAverafgeFromArrayTest.testSomething" configurationId="JUnit" />
+    <history-entry file="ThisIsAProblemTest - 2019.01.28 at 13h 08m 20s.xml">
+      <configuration name="ThisIsAProblemTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23715416" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.49185044" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32981783" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
-      <window_info anchor="right" id="Key Promoter X" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
+      <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,12 +349,11 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../jjdzl1-materialy-jse/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../jjdzl1-materialy-jse/.gitignore" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -440,21 +364,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="1059" column="25" selection-start-line="1059" selection-start-column="25" selection-end-line="1059" selection-end-column="25" />
-          <folding>
-            <element signature="e#33371#33372#0" expanded="true" />
-            <element signature="e#33441#33442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleJOIN.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
@@ -467,9 +378,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArrayTest.java">
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/Best-SellingBooks">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -488,7 +396,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/JennysSecretMessageTest.java">
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="36" />
@@ -512,51 +419,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="246" column="12" selection-start-line="246" selection-start-column="12" selection-end-line="246" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/CalculateAverafgeFromArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
->>>>>>> 6c7b92fd783a62a1f6aa6a4123c0272e7b8f923e
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/CountOfPositivesSumOfNegativesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="460" column="10" selection-start-line="460" selection-start-column="10" selection-end-line="460" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ReturnNegativeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

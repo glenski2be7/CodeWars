@@ -24,3 +24,13 @@ Asrc/main/java/pl/infoshare/lukasz/sql/SQL-CountingAndGrouping.sql,5\f\5f7936d2
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+u
+Esrc/test/java/pl/infoshare/lukasz/CalculateAverafgeFromArrayTest.java,f\5\f500122dfce8c23137207ac0cb5117cbd4f96035
+u
+Esrc/main/java/pl/infoshare/lukasz/sql/CalculateAverafgeFromArray.java,a\d\adee01151eb0f610eeb625b132d7e1b9c4c2536c
+e
+5src/main/java/pl/infoshare/lukasz/ThisIsAProblem.java,4\d\4d0811fcc273f26a24a58c359d4b85b391fb7768
+i
+9src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java,7\3\7336290caedaa89a5925dde7359173b2deaba0ee
+i
+9src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java,3\5\357c9565a01caf8565a0ed5cf9488677d94007ce
