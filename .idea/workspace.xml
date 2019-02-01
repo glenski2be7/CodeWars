@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea098ada-6b56-4713-bbbf-7ec9676d4e05" name="Default Changelist" comment="">
+    <list default="true" id="05622885-6736-448c-824d-3d0bc9b84a70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53945569cdc4ead05e2c287edab295c977bbf486" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5732e955b6b14d8badbc34e63282754cacc07c82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f7936d2eda7b692fb915ed1b97158845bc7c514" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61f4bb5c181eaab187a4855bc26e81f398594d90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84d09554c291dde9a2d7f493de97bc0818992598" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1139fc3c61a9f39b1ecc7e40f78c31acfd56143" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd604be5a9df65da2a4460be42eb39dc92b2e10d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c820ddd14520cc993fe7b625804e015eccaeba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea9c85d92281dc5a677ffc6409a277f099629b1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9d26016a5e5ee006fa26c7844f7da56926e73b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/../jjdzl1-materialy-jse/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,56 +27,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="180">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/IsThisTriangle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/IsThisTriangleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="595" column="10" selection-start-line="595" selection-start-column="10" selection-end-line="595" selection-end-column="10" />
+            <state relative-caret-position="520">
+              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/GetTheMiddleCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/CountOfPositivesSumOfNegatives.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,10 +92,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/GetTheMiddleCharacterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -101,22 +133,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleGROUPBY" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/Best-SellingBooks" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/JennysSecretMessage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/JennysSecretMessageTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/GetTheMiddleCharacter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/GetTheMiddleCharacterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/IsItEquableTriangle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/IsThisTrangleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/IsThisTriangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/IsThisTriangle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/IsThisTriangleTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacterTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -139,105 +159,43 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="47" />
-    <option name="width" value="1271" />
-    <option name="height" value="701" />
+    <option name="x" value="260" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lukasz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548682368445" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549017575191" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jjdzl1-materialy-strukturydanych" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="pl.infoshare.lukasz" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -251,21 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsThisTriangleTest">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.App" />
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.infoshare.lukasz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetTheMiddleCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="RemoveFirstAndLastCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <extension name="coverage">
         <pattern>
@@ -274,65 +219,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.infoshare.lukasz" />
-      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.GetTheMiddleCharacterTest" />
+      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.RemoveFirstAndLastCharacterTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsThisTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.infoshare.lukasz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.infoshare.lukasz" />
-      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.IsThisTriangleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PangramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.infoshare.lukasz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.infoshare.lukasz" />
-      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.PangramCheckerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThisIsAProblemTest.testNameMeOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.infoshare.lukasz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.infoshare.lukasz" />
-      <option name="MAIN_CLASS_NAME" value="pl.infoshare.lukasz.ThisIsAProblemTest" />
-      <option name="METHOD_NAME" value="testNameMeOne" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsThisTriangleTest" />
-        <item itemvalue="JUnit.GetTheMiddleCharacterTest" />
-        <item itemvalue="JUnit.ThisIsAProblemTest.testNameMeOne" />
-        <item itemvalue="JUnit.PangramCheckerTest" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.RemoveFirstAndLastCharacterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -341,175 +236,61 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea098ada-6b56-4713-bbbf-7ec9676d4e05" name="Default Changelist" comment="" />
-      <created>1548185186275</created>
+      <changelist id="05622885-6736-448c-824d-3d0bc9b84a70" name="Default Changelist" comment="" />
+      <created>1549015884788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548185186275</updated>
+      <updated>1549015884788</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JennysSecretMessageTest_Test - 2019.01.22 at 21h 06m 03s.xml">
-      <configuration name="JennysSecretMessageTest.Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JennysSecretMessageTest_Test - 2019.01.22 at 21h 06m 55s.xml">
-      <configuration name="JennysSecretMessageTest.Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.01.22 at 21h 33m 07s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ThisIsAProblemTest - 2019.01.28 at 13h 08m 20s.xml">
-      <configuration name="ThisIsAProblemTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ThisIsAProblemTest_testNameMeOne - 2019.01.28 at 13h 11m 03s.xml">
-      <configuration name="ThisIsAProblemTest.testNameMeOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetTheMiddleCharacterTest - 2019.01.28 at 13h 22m 25s.xml">
-      <configuration name="GetTheMiddleCharacterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsThisTriangleTest - 2019.01.28 at 14h 08m 19s.xml">
-      <configuration name="IsThisTriangleTest" configurationId="JUnit" />
+    <history-entry file="RemoveFirstAndLastCharacterTest - 2019.02.01 at 11h 16m 06s.xml">
+      <configuration name="RemoveFirstAndLastCharacterTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.32981783" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32981783" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40076703" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.19936034" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.15019763" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Key Promoter X" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../jjdzl1-materialy-jse/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-CountingAndGrouping.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleJOIN.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/SQL-BasicsSimpleGROUPBY">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/Best-SellingBooks">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/PangramCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ReturnNegativeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/ThisIsAProblemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/JennysSecretMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/IsThisTriangle" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/IsThisTrangleTest" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/JennysSecretMessageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/sql/IsThisTriangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/BasicVariableAssignment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/ReturnNegative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/GetTheMiddleCharacterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/JennysSecretMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -519,29 +300,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/GetTheMiddleCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/ThisIsAProblem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/CountOfPositivesSumOfNegatives.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -552,44 +318,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/FindTheSmallestIntegerInTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/IsThisTriangleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/PangramChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/IsThisTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/GetTheMiddleCharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="200">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="595" column="10" selection-start-line="595" selection-start-column="10" selection-end-line="595" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
         </state>
       </provider>
     </entry>
