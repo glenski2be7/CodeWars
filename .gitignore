@@ -28,5 +28,6 @@ target/*
 .classpath
 .project
 .idea
+.idea/*
 *.iml
 /target

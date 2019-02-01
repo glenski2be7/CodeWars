@@ -24,3 +24,7 @@ Fsrc/test/java/pl/infoshare/lukasz/RemoveFirstAndLastCharacterTest.java,7\b\7b2
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+m
+=src/main/java/pl/infoshare/lukasz/RemoveExclamationMarks.java,2\b\2bea78741f4ffc5c3daaf8805c1b5496d96958b0
+q
+Asrc/test/java/pl/infoshare/lukasz/RemoveExclamationMarksTest.java,c\0\c040e9a695081aa97425f6e0ca7c7fe8850ef29c
